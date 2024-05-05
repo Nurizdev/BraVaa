@@ -559,20 +559,74 @@ summary::-webkit-details-marker {
 .wrapper{
   padding-top: 100px;
 }
+#visit{
+  background: rgba(12, 22, 35, 1);
+}
+
+.visit h1{
+font-family: sans-serif;
+font-size: 48px;
+font-weight: 600;
+line-height: 62.4px;
+text-align: center;
+color: white;
+
+}
+
+.visit span{
+  color: rgba(3, 149, 164, 1);
+}
+.visit p{
+  font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 20.8px;
+text-align: center;
+color: white;
+padding: 35px 0;
+}
+
+.visit button{
+background: rgba(3, 149, 164, 1);
+color: white;
+padding: 10px 30px;
+border-radius: 20px;
+border: none;
+outline: none;
+font-size: 16px;
+text-align: center;
+font-weight: 500;
+justify-content: center;
+}
+
+  .visit{
+    text-align: center;
+    padding: 60px 0;
+  }
+#connection{
+  background: white;
+}
+.connection{
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 60px 0px;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+}
+.icons-info{
+  text-align: center;
+}
+.icons{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.icons-info p{
+  padding-top: 20px;
+  padding-left: 55px;
+}
 
 
 
