@@ -247,23 +247,23 @@ a {
 }
 .group-img-1 {
   position: absolute;
-  bottom: -1550px;
-  left:60px;
+  bottom: -1800px;
+  left:90px;
 }
 .group-img-2 {
   position: absolute;
   padding-left: 370px;
-  bottom: -1550px;
+  bottom: -1800px;
 }
 .group-img-3 {
   position: absolute;
   padding-left: 680px;
-  bottom: -1550px;
+  bottom: -1800px;
 }
 .group-img-4 {
   position: absolute;
   padding-left: 990px;
-  bottom: -1550px;
+  bottom: -1800px;
 }
 #floor-plans {
   background: rgba(232, 239, 244, 1);
